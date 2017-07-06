@@ -1,3 +1,7 @@
+django
 djangorestframework
 django-filter
 sqlalchemy
+pymysql
+pandas
+numpy
