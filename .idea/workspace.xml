@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a2f71a4-7426-4587-9803-83537e924c8c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/open_data_vis_project/wsgi.py" afterPath="$PROJECT_DIR$/open_data_vis_project/wsgi.py" />
-    </list>
+    <list default="true" id="4a2f71a4-7426-4587-9803-83537e924c8c" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
