@@ -6,4 +6,5 @@ from rest_api.serializers import ChickenSerializer
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^api/', views.ChickenViewSet.as_view()),
+    url(r'', include('main_page.urls')),
 ]

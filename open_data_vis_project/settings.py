@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'django_filters',
     'rest_api',
+    'main_page',
 ]
 
 MIDDLEWARE = [
@@ -92,6 +93,7 @@ DATABASES = {
         'USER': 'JEONGWOOJIN',
         'PASSWORD': 'success77',
         'HOST': 'JEONGWOOJIN.mysql.pythonanywhere-services.com',
+        'OPTIONS': {'sql_mode': 'traditional',}
     }
 }
 
