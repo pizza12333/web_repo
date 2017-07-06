@@ -46,6 +46,6 @@ class ChickenFilter(django_filters.FilterSet):
 
 class ChickenViewSet(generics.ListAPIView):
     serializer_class = ChickenSerializer
-    queryset = ChickenData.objects.using('external').all()
+    queryset = ChickenData.objects.using('open_data').all()
     filter_backends = (filters.DjangoFilterBackend,)
     filter_class = ChickenFilter
