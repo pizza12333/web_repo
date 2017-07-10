@@ -2,51 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a2f71a4-7426-4587-9803-83537e924c8c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main_page/templates/test/test.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main_page/static/production/calendar.html" afterPath="$PROJECT_DIR$/main_page/templates/main_page/calendar.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main_page/static/production/chartjs.html" afterPath="$PROJECT_DIR$/main_page/templates/main_page/chartjs.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main_page/static/production/chartjs2.html" afterPath="$PROJECT_DIR$/main_page/templates/main_page/chartjs2.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main_page/static/production/contacts.html" afterPath="$PROJECT_DIR$/main_page/templates/main_page/contacts.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main_page/static/production/e_commerce.html" afterPath="$PROJECT_DIR$/main_page/templates/main_page/e_commerce.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main_page/static/production/echarts.html" afterPath="$PROJECT_DIR$/main_page/templates/main_page/echarts.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main_page/static/production/fixed_footer.html" afterPath="$PROJECT_DIR$/main_page/templates/main_page/fixed_footer.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main_page/static/production/fixed_sidebar.html" afterPath="$PROJECT_DIR$/main_page/templates/main_page/fixed_sidebar.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main_page/static/production/form.html" afterPath="$PROJECT_DIR$/main_page/templates/main_page/form.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main_page/static/production/form_advanced.html" afterPath="$PROJECT_DIR$/main_page/templates/main_page/form_advanced.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main_page/static/production/form_buttons.html" afterPath="$PROJECT_DIR$/main_page/templates/main_page/form_buttons.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main_page/static/production/form_upload.html" afterPath="$PROJECT_DIR$/main_page/templates/main_page/form_upload.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main_page/static/production/form_validation.html" afterPath="$PROJECT_DIR$/main_page/templates/main_page/form_validation.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main_page/static/production/form_wizards.html" afterPath="$PROJECT_DIR$/main_page/templates/main_page/form_wizards.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main_page/static/production/general_elements.html" afterPath="$PROJECT_DIR$/main_page/templates/main_page/general_elements.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main_page/static/production/glyphicons.html" afterPath="$PROJECT_DIR$/main_page/templates/main_page/glyphicons.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main_page/static/production/icons.html" afterPath="$PROJECT_DIR$/main_page/templates/main_page/icons.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main_page/static/production/inbox.html" afterPath="$PROJECT_DIR$/main_page/templates/main_page/inbox.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main_page/static/production/index2.html" afterPath="$PROJECT_DIR$/main_page/templates/main_page/index2.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main_page/static/production/index3.html" afterPath="$PROJECT_DIR$/main_page/templates/main_page/index3.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main_page/static/production/invoice.html" afterPath="$PROJECT_DIR$/main_page/templates/main_page/invoice.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main_page/static/production/level2.html" afterPath="$PROJECT_DIR$/main_page/templates/main_page/level2.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main_page/static/production/login.html" afterPath="$PROJECT_DIR$/main_page/templates/main_page/login.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main_page/static/production/map.html" afterPath="$PROJECT_DIR$/main_page/templates/main_page/map.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main_page/static/production/media_gallery.html" afterPath="$PROJECT_DIR$/main_page/templates/main_page/media_gallery.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main_page/static/production/morisjs.html" afterPath="$PROJECT_DIR$/main_page/templates/main_page/morisjs.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main_page/static/production/other_charts.html" afterPath="$PROJECT_DIR$/main_page/templates/main_page/other_charts.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main_page/static/production/page_403.html" afterPath="$PROJECT_DIR$/main_page/templates/main_page/page_403.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main_page/static/production/page_404.html" afterPath="$PROJECT_DIR$/main_page/templates/main_page/page_404.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main_page/static/production/page_500.html" afterPath="$PROJECT_DIR$/main_page/templates/main_page/page_500.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main_page/static/production/plain_page.html" afterPath="$PROJECT_DIR$/main_page/templates/main_page/plain_page.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main_page/static/production/pricing_tables.html" afterPath="$PROJECT_DIR$/main_page/templates/main_page/pricing_tables.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main_page/static/production/profile.html" afterPath="$PROJECT_DIR$/main_page/templates/main_page/profile.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main_page/static/production/project_detail.html" afterPath="$PROJECT_DIR$/main_page/templates/main_page/project_detail.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main_page/static/production/projects.html" afterPath="$PROJECT_DIR$/main_page/templates/main_page/projects.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main_page/static/production/tables.html" afterPath="$PROJECT_DIR$/main_page/templates/main_page/tables.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main_page/static/production/tables_dynamic.html" afterPath="$PROJECT_DIR$/main_page/templates/main_page/tables_dynamic.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main_page/static/production/typography.html" afterPath="$PROJECT_DIR$/main_page/templates/main_page/typography.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main_page/static/production/widgets.html" afterPath="$PROJECT_DIR$/main_page/templates/main_page/widgets.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main_page/static/production/xx.html" afterPath="$PROJECT_DIR$/main_page/templates/main_page/xx.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main_page/templates/main_page/index.html" afterPath="$PROJECT_DIR$/main_page/templates/main_page/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main_page/urls.py" afterPath="$PROJECT_DIR$/main_page/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main_page/views.py" afterPath="$PROJECT_DIR$/main_page/views.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/open_data_vis_project/urls.py" afterPath="$PROJECT_DIR$/open_data_vis_project/urls.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,11 +18,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/open_data_vis_project/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="31" column="14" lean-forward="false" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+            <state relative-caret-position="135">
+              <caret line="39" column="14" lean-forward="true" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
               <folding>
                 <element signature="e#325#334#0" expanded="true" />
               </folding>
@@ -78,7 +34,7 @@
         <entry file="file://$PROJECT_DIR$/open_data_vis_project/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="43" lean-forward="false" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+              <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -89,9 +45,11 @@
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main_page/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
-              <folding />
+            <state relative-caret-position="15">
+              <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -108,7 +66,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main_page/templates/test/test.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
@@ -153,10 +111,10 @@
         <option value="$PROJECT_DIR$/rest_api/views.py" />
         <option value="$PROJECT_DIR$/open_data_vis_project/settings.py" />
         <option value="$PROJECT_DIR$/main_page/templates/main_page/index.html" />
-        <option value="$PROJECT_DIR$/open_data_vis_project/urls.py" />
         <option value="$PROJECT_DIR$/main_page/urls.py" />
         <option value="$PROJECT_DIR$/main_page/views.py" />
         <option value="$PROJECT_DIR$/main_page/templates/test/test.html" />
+        <option value="$PROJECT_DIR$/open_data_vis_project/urls.py" />
       </list>
     </option>
   </component>
@@ -459,7 +417,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2446386" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -467,7 +425,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -512,7 +470,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="23" />
-          <folding />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -566,7 +526,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
-          <folding />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -611,7 +573,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
-          <folding />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -806,26 +770,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/open_data_vis_project/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="31" column="14" lean-forward="false" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
-          <folding>
-            <element signature="e#325#334#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/open_data_vis_project/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="43" lean-forward="false" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/rest_api/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-183">
@@ -834,11 +778,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/open_data_vis_project/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main_page/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
-          <folding />
+        <state relative-caret-position="15">
+          <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -857,6 +813,16 @@
         <state relative-caret-position="150">
           <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/open_data_vis_project/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="39" column="14" lean-forward="true" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+          <folding>
+            <element signature="e#325#334#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
