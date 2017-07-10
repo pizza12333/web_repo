@@ -80,23 +80,10 @@ WSGI_APPLICATION = 'open_data_vis_project.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'JEONGWOOJIN$WEB_DB',
-        'USER': 'JEONGWOOJIN',
-        'PASSWORD': 'success77',
-        'HOST': 'JEONGWOOJIN.mysql.pythonanywhere-services.com',
-    },
-
-    'open_data': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'JEONGWOOJIN$OPEN_DATA',
-        'USER': 'JEONGWOOJIN',
-        'PASSWORD': 'success77',
-        'HOST': 'JEONGWOOJIN.mysql.pythonanywhere-services.com',
-        'OPTIONS': {'sql_mode': 'traditional',}
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
     }
 }
-
 
 # Password validation
 # https://docs.djangoproject.com/en/1.11/ref/settings/#auth-password-validators
