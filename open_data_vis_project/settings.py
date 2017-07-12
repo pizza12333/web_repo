@@ -92,6 +92,7 @@ DATABASES = {
         'USER': 'JEONGWOOJIN',
         'PASSWORD': 'success77',
         'HOST': 'JEONGWOOJIN.mysql.pythonanywhere-services.com',
+        'OPTIONS' : {'sql_mode' :'traditional',}
     }
 }
 
