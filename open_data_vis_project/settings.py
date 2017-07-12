@@ -82,7 +82,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'JEONGWOOJIN$web_db',
         'USER': 'JEONGWOOJIN',
-        'PASSWORD': 'root',
+        'PASSWORD': 'success77',
         'HOST': 'JEONGWOOJIN.mysql.pythonanywhere-services.com',
     },
 
@@ -90,7 +90,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'JEONGWOOJIN$open_data',
         'USER': 'JEONGWOOJIN',
-        'PASSWORD': 'root',
+        'PASSWORD': 'success77',
         'HOST': 'JEONGWOOJIN.mysql.pythonanywhere-services.com',
     }
 }
