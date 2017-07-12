@@ -25,7 +25,7 @@ SECRET_KEY = 't@9v!_7tz%=uj-$=sschs!b=rdsqx&m6e!c-(9ibyg5l%k0b&m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [127.0.0.1, 'www.pythonanywhere.com']
 
 # Application definition
 
@@ -39,7 +39,6 @@ INSTALLED_APPS = [
     'rest_framework',
     'django_filters',
     'rest_api',
-    'main_page',
 ]
 
 MIDDLEWARE = [
