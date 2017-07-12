@@ -84,6 +84,7 @@ DATABASES = {
         'USER': 'JEONGWOOJIN',
         'PASSWORD': 'success77',
         'HOST': 'JEONGWOOJIN.mysql.pythonanywhere-services.com',
+        'OPTIONS' : {'sql_mode' :'traditional',},
     },
 
     'open_data': {
@@ -92,7 +93,7 @@ DATABASES = {
         'USER': 'JEONGWOOJIN',
         'PASSWORD': 'success77',
         'HOST': 'JEONGWOOJIN.mysql.pythonanywhere-services.com',
-        'OPTIONS' : {'sql_mode' :'traditional',}
+        'OPTIONS' : {'sql_mode' :'traditional',},
     }
 }
 
