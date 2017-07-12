@@ -77,8 +77,17 @@ WSGI_APPLICATION = 'open_data_vis_project.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'JEONGWOOJIN$web_db',
+        'USER': 'JEONGWOOJIN',
+        'PASSWORD': 'root'
+    },
+
+    'open_data': {
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'JEONGWOOJIN$open_data',
+        'USER': 'JEONGWOOJIN',
+        'PASSWORD': 'root'
     }
 }
 
