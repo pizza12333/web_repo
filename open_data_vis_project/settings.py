@@ -77,21 +77,24 @@ WSGI_APPLICATION = 'open_data_vis_project.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/1.11/ref/settings/#databases
 
+# github 공개시 제 user-name, db-name, pw를 지웠습니다. 따라서  <'DB-NAME'>, <'USER-NAME'>, <'PASSWORD'>, 대신 각자 알맞은
+# 값을 대체하시면 됩니다.
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'JEONGWOOJIN$web_db',
-        'USER': 'JEONGWOOJIN',
-        'PASSWORD': 'success77',
+        'NAME': <'DB-NAME'>,
+        'USER': <'USER-NAME'>,
+        'PASSWORD':  <'PASSWORD'>,
         'HOST': 'JEONGWOOJIN.mysql.pythonanywhere-services.com',
         'OPTIONS' : {'sql_mode' :'traditional',},
     },
 
     'open_data': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'JEONGWOOJIN$open_data',
-        'USER': 'JEONGWOOJIN',
-        'PASSWORD': 'success77',
+        'NAME': <'DB-NAME'>,
+        'USER':  <'USER-NAME'>,
+        'PASSWORD':  <'PASSWORD'>,
         'HOST': 'JEONGWOOJIN.mysql.pythonanywhere-services.com',
         'OPTIONS' : {'sql_mode' :'traditional',},
     }
