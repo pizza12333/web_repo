@@ -82,23 +82,23 @@ WSGI_APPLICATION = 'open_data_vis_project.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': <'DB-NAME'>,
-        'USER': <'USER-NAME'>,
-        'PASSWORD':  <'PASSWORD'>,
-        'HOST': 'JEONGWOOJIN.mysql.pythonanywhere-services.com',
-        'OPTIONS' : {'sql_mode' :'traditional',},
-    },
-
+          'ENGINE': 'django.db.backends.mysql',
+          'NAME': 'JEONGWOOJIN$web_db',
+          'USER': 'JEONGWOOJIN',
+          'PASSWORD': 'success77',                                                                                                        
+          'HOST': 'JEONGWOOJIN.mysql.pythonanywhere-services.com',
+          'OPTIONS' : {'sql_mode' :'traditional',},
+      },
+    
     'open_data': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': <'DB-NAME'>,
-        'USER':  <'USER-NAME'>,
-        'PASSWORD':  <'PASSWORD'>,
-        'HOST': 'JEONGWOOJIN.mysql.pythonanywhere-services.com',
-        'OPTIONS' : {'sql_mode' :'traditional',},
-    }
-}
+          'ENGINE': 'django.db.backends.mysql',
+          'NAME': 'JEONGWOOJIN$open_data',
+          'USER': 'JEONGWOOJIN',
+          'PASSWORD': 'success77',
+          'HOST': 'JEONGWOOJIN.mysql.pythonanywhere-services.com',
+          'OPTIONS' : {'sql_mode' :'traditional',},
+      }
+  }
 
 # Password validation
 # https://docs.djangoproject.com/en/1.11/ref/settings/#auth-password-validators
